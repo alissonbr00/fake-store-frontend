@@ -7,7 +7,8 @@ Siga os passos abaixo para rodar o projeto localmente:
 1️⃣ Clone este repositório
 
 bash
-git clone https://github.com/alissonbr00/projeto-loja.git
+git clone https://github.com/alissonbr00/fake-store-frontend
+
 cd projeto-loja
 2️⃣ Instale as dependências
 
@@ -49,4 +50,4 @@ O projeto utiliza as seguintes tecnologias:
 🤝 Contribuições
 Sinta-se à vontade para sugerir melhorias! Faça um fork e envie um pull request.
 
-🔗 GitHub: https://github.com/alissonbr00/projeto-loja
+🔗 GitHub: https://github.com/alissonbr00/fake-store-frontend
